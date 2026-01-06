@@ -1,0 +1,4 @@
+nix-on-droid.cachix.org/nar/a5e7ea3e9da11516a549b4f2acda3eff65070939ac95e81cc1ba7bef8a32b053 206 {
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
